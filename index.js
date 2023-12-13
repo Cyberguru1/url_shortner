@@ -38,7 +38,7 @@ app.use(session(
   }))
 
 const corsOptions = {
-  origin: 'http://localhost:8081',  //Your Client, do not write '*'
+  origin: 'http://localhost:8081',
   credentials: true,
 };
 
