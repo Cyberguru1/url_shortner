@@ -1,7 +1,9 @@
 #!/bin/bash node
-//************************************/
-// Implementation of url shortner    /
-//                                  /
+
+//************************************|
+// Implementation of url shortner     |
+//       @cyb3rguru                   |
+//************************************|
 
 
 const { nanoid } = require("nanoid");
